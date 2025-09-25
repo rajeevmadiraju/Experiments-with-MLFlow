@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1f8bd7225d4b416d89993bf79362bdb1/artifacts
+end_time: 1758815613360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f8bd7225d4b416d89993bf79362bdb1
+run_name: skillful-wasp-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758815613343
+status: 3
+tags: []
+user_id: rajeevmadiraju

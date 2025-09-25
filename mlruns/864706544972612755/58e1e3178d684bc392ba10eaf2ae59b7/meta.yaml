@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajeevmadiraju/Desktop/MLOps%20project/MLFlow%20Demo/Experiments-with-MLFlow/mlruns/864706544972612755/58e1e3178d684bc392ba10eaf2ae59b7/artifacts
+end_time: 1758819602226
+entry_point_name: ''
+experiment_id: '864706544972612755'
+lifecycle_stage: active
+run_id: 58e1e3178d684bc392ba10eaf2ae59b7
+run_name: incongruous-deer-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758819602218
+status: 3
+tags: []
+user_id: rajeevmadiraju

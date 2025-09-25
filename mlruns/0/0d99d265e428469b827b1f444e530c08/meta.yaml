@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0d99d265e428469b827b1f444e530c08/artifacts
+end_time: 1758809397094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d99d265e428469b827b1f444e530c08
+run_name: classy-yak-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758809397081
+status: 3
+tags: []
+user_id: rajeevmadiraju

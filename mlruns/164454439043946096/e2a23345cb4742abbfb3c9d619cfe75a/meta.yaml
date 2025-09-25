@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/164454439043946096/e2a23345cb4742abbfb3c9d619cfe75a/artifacts
+end_time: 1758817674332
+entry_point_name: ''
+experiment_id: '164454439043946096'
+lifecycle_stage: active
+run_id: e2a23345cb4742abbfb3c9d619cfe75a
+run_name: beautiful-trout-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758817670151
+status: 3
+tags: []
+user_id: rajeevmadiraju

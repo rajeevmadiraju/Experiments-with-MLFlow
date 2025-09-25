@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rajeevmadiraju/Desktop/MLOps%20project/MLFlow%20Demo/Experiments-with-MLFlow/mlruns/864706544972612755/b5bf1d71e83b4e7783c7cbb8bb0ec44d/artifacts
+end_time: 1758819602236
+entry_point_name: ''
+experiment_id: '864706544972612755'
+lifecycle_stage: active
+run_id: b5bf1d71e83b4e7783c7cbb8bb0ec44d
+run_name: adorable-koi-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758819602228
+status: 3
+tags: []
+user_id: rajeevmadiraju

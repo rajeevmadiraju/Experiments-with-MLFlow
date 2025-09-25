@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/be70741e063a476dbc57c9a7915b53b1/artifacts
+end_time: 1758816548684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be70741e063a476dbc57c9a7915b53b1
+run_name: peaceful-penguin-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758816548416
+status: 3
+tags: []
+user_id: rajeevmadiraju
